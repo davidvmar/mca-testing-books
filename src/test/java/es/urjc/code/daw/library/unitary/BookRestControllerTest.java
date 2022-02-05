@@ -1,4 +1,4 @@
-package es.urjc.code.daw.library.rest;
+package es.urjc.code.daw.library.unitary;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import es.urjc.code.daw.library.book.Book;
